@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Swetha Sai Dakupati</h1>
-<h3 align="center">A girl trying to explore new stuff.</h3>
+<h1 align="center">Hi 👋, I'm Swetha</h1>
+<h3 align="center">An enthusiastic learner and problem solver.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swethashub-source&label=Profile%20views&color=0e75b6&style=flat" alt="swethashub-source" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?
+  username=swethashub-source&label=Profile%20views&color=129e00&style=plastic" alt="swethashub-source" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
